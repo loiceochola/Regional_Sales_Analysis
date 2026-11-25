@@ -1,5 +1,5 @@
 # Regional_Sales_Analysis
-Analysis of regional sales perfomance using Python(data cleaning and exploratory analysis) and built an interactive Power BI dashboard to track revenue, top-petrforming regions and sales trends
+Analysis of regional sales performance using Python(data cleaning and exploratory analysis) and built an interactive Power BI dashboard to track revenue, top-petrforming regions and sales trends
 # 📊 Data Analytics Project
 
 ## 1. Overview
