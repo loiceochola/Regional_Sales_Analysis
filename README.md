@@ -98,13 +98,13 @@ This project answers:
 | 2017 | $293.8M | $109.6M | 37.3% | 15,263 |
 | 2018 (Jan-Feb) | $48.1M | $17.9M | 37.1% | 2,478 |
 
-![Annual revenue](images/annual_revenue.png)
+
 
 **Insight:** the business is **flat, not growing**. Revenue stayed around $298M a year from 2014 to 2016 and slipped 1.4% in 2017. Margin held steady at about 37% throughout. The Jan-Feb 2018 figure ($48.1M) is in line with the same months of previous years ($45.3M to $48.9M).
 
 ### 2. Seasonality
 
-![Monthly seasonality](images/monthly_seasonality.png)
+
 
 **Insight:** seasonality is **mild**. Using full years only (2014-2017), the average month brings in $22.8M to $25.6M. February is the lowest (it is the shortest month) and May the highest, a spread of only 12% between best and worst month. There is no strong peak season.
 
@@ -116,7 +116,7 @@ This project answers:
 | Distributor | $387.1M | 31.3% | 37.7% | 19,968 |
 | Export | $180.6M | 14.6% | 38.0% | 9,540 |
 
-![Revenue by channel](images/revenue_by_channel.png)
+
 
 **Insight:** Wholesale is the backbone of the business with more than half of revenue. Export is the smallest channel but has the **highest margin** (38.0%), while Wholesale has the lowest (37.0%). The gaps are small, and the channel mix has not changed over the years.
 
@@ -129,7 +129,7 @@ This project answers:
 | Midwest | $320.3M | 25.9% | 37.5% |
 | Northeast | $208.4M | 16.9% | 37.1% |
 
-![Revenue by region](images/revenue_by_region.png)
+
 
 | Top 10 states | Revenue | Share | Margin |
 |---|---|---|---|
@@ -144,7 +144,6 @@ This project answers:
 | Michigan | $39.0M | 3.2% | 37.9% |
 | Massachusetts | $35.0M | 2.8% | 37.2% |
 
-![Top states](images/top_states.png)
 
 **Insight:** revenue is **geographically concentrated**. California alone is 18.5% of sales and the top 5 states make up 46%. The five smallest locations (Delaware at $1.2M, Maine, Washington DC, South Dakota and Wyoming at $1.7M) each contribute only about 0.1%. Margins are almost identical across regions, so geography affects *how much* is sold, not how profitable it is. The Northeast is the smallest region despite having the highest average order line ($19,578).
 
@@ -163,9 +162,8 @@ This project answers:
 | Product 1 | $56.0M | 4.5% | 38.3% |
 | Product 3 | $51.8M | 4.2% | 36.8% |
 
-![Top products](images/top_products.png)
 
-![Product positioning](images/product_positioning.png)
+
 
 **Insight:**
 - The top 2 products bring in 18.3% of revenue and the top 10 bring in 59.9%.
@@ -190,7 +188,7 @@ This project answers:
 | $20K to $40K | 17,004 | 26.5% |
 | Over $40K | 7,002 | 10.9% |
 
-![Order value distribution](images/order_value_distribution.png)
+
 
 **Insight:** most order lines fall between $5K and $40K. **Unit price has no relationship with profit margin** (correlation of −0.005), so expensive items are not more profitable per dollar of sales. There is no "high-margin price band" to target.
 
@@ -204,7 +202,7 @@ Actual 2017 revenue was **$293.8M** against a total product budget of **$62.7M**
 
 ## 📈 Power BI Dashboard
 
-> 📷 *Add screenshots of each dashboard page here:* `![Executive Overview](images/dashboard_page1.png)`
+
 
 The dashboard (`Regional_Sales_Analysis_Dashboard.pbix`) has three pages, each with slicers for **channel, region, month and year** and navigation buttons:
 
